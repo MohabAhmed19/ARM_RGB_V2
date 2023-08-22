@@ -1,4 +1,4 @@
-.\objects\main.o: ..\..\..\NEW_GPIO\main.c
+.\objects\main.o: APP\main.c
 .\objects\main.o: C:\Users\mohab\AppData\Local\Arm\Packs\Keil\TM4C_DFP\1.1.0\Device\Include\TM4C123\TM4C123.h
 .\objects\main.o: C:\Users\mohab\AppData\Local\Arm\Packs\Keil\TM4C_DFP\1.1.0\Device\Include\TM4C123\TM4C123GH6PM.h
 .\objects\main.o: C:\Users\mohab\AppData\Local\Arm\Packs\ARM\CMSIS\5.9.0\CMSIS\Core\Include\core_cm4.h
